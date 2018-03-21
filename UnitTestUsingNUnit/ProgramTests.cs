@@ -17,9 +17,9 @@ namespace UnitTestUsingNUnit
             {
                 actualResult = Program.Add(strFirstName, strLastName);
             }
-            catch (Exception ex)
+            catch (Exception ex1)
             {
-                actualResult = ex.Message;
+                actualResult = ex1.Message;
             }
             return actualResult;
         }
