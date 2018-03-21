@@ -1,0 +1,6 @@
+C:\Users\nilsh\source\repos\CITestingExample\CITestingExample\bin\Debug\CITestingExample.exe.config
+C:\Users\nilsh\source\repos\CITestingExample\CITestingExample\bin\Debug\CITestingExample.exe
+C:\Users\nilsh\source\repos\CITestingExample\CITestingExample\bin\Debug\CITestingExample.pdb
+C:\Users\nilsh\source\repos\CITestingExample\CITestingExample\obj\Debug\CITestingExample.csproj.CoreCompileInputs.cache
+C:\Users\nilsh\source\repos\CITestingExample\CITestingExample\obj\Debug\CITestingExample.exe
+C:\Users\nilsh\source\repos\CITestingExample\CITestingExample\obj\Debug\CITestingExample.pdb
