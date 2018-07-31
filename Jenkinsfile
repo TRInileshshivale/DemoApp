@@ -16,5 +16,10 @@ pipeline{
                   echo "Code Deployed...."
                     }
             }
+              stage('ST SIT'){
+                    steps {
+                  echo "ST_SIT Deployed...."
+                    }
+            }
         }
    }
