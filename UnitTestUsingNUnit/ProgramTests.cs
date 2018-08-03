@@ -1,9 +1,4 @@
 
-
-
-
-
-
 using CITestingExample;
 using NUnit.Framework;
 using System;
